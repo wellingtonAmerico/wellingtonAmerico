@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="bannerpro.png" alt="Wellington Américo - Software Engineer" />
+</p>
+
+---
+
+
 ## 👋 Olá, eu sou o Wellington Américo
 
 💻 Engenheiro de Computação formado  
