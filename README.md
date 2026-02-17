@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bannerpro.png" alt="Wellington Américo - Software Engineer" />
+  <img width="1536" height="439" alt="Wellington Américo - Software Engineer" src="https://github.com/user-attachments/assets/931e9c73-4ec1-4a92-acd8-21cd4c716d86" />
 </p>
 
 ---
@@ -86,3 +86,26 @@ Tenho forte afinidade com desenvolvimento web, backend e soluções orientadas a
   
 <!--Snake-->
   ![Snake animation](https://github.com/wellingtonAmerico/wellingtonAmerico/blob/output/github-contribution-grid-snake.svg)
+
+<!--Footer-->
+<br><br>
+
+<hr style="border: 1px solid #2ea043; width: 80%;">
+
+<p align="center" style="color:#2ea043; font-size:14px;">
+  🚀 Building software, systems & automation
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/wellington-am%C3%A9rico/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2ea043?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:wellingtonamerico@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-2ea043?style=flat&logo=microsoft-outlook&logoColor=white">
+  </a>
+</p>
+
+<p align="center" style="color:#6e7681; font-size:12px;">
+  © 2026 • Wellington Américo
+</p>
+
