@@ -115,6 +115,7 @@ Projeto de estudo prático de desenvolvimento web envolvendo front-end, back-end
 ##  Em desenvolvimento
 
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, backend, arquitetura de aplicações, cloud, automação e integração de sistemas.
+
 ---
 
 ##  Como me encontrar
