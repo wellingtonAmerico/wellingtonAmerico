@@ -102,10 +102,13 @@ Projeto de estudo prático de desenvolvimento web envolvendo front-end, back-end
 
 ---
 
-##  Onde me encontrar
+## 🌐 Portfólio
 
--  [LinkedIn](https://www.linkedin.com/in/wellington-am%C3%A9rico/)
--  [Portfólio](https://portfolio-v3-4o2.pages.dev/)
+<p align="center">
+  <a href="https://portfolio-v3-4o2.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2ea043?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>
 
 ---
 
