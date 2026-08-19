@@ -102,7 +102,7 @@ Projeto de estudo prático de desenvolvimento web envolvendo front-end, back-end
 
 ---
 
-## 🌐 Portfólio
+##  Portfólio
 
 <p align="center">
   <a href="https://portfolio-v3-4o2.pages.dev/" target="_blank">
@@ -160,7 +160,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software,
 <hr style="border: 1px solid #2ea043; width: 80%;">
 
 <p align="center" style="color:#2ea043; font-size:14px;">
-  🚀 Building software, systems & automation
+   Building software, systems & automation
 </p>
 
 <p align="center">
